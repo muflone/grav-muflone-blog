@@ -1,0 +1,3 @@
+[submodule "user/themes/muflone-light"]
+	path = user/themes/muflone-light
+	url = ../grav-theme-muflone-light.git
